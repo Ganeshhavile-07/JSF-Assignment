@@ -1,0 +1,10 @@
+package com.capgemini.assignment1;
+
+public class ArmstrongNumber100to999 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
