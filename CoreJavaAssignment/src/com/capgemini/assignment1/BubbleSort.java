@@ -3,11 +3,12 @@ package com.capgemini.assignment1;
 public class BubbleSort {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//Initialization  of array and declaration of array
 		int arr[]= {5,12,14,6,78,19,1,23,26,35,37,7,52,86,47};
 		
 		System.out.println("Array before sorting: ");
 		System.out.print("[");
+		//by using the loop we can retrieve the data
 		for(int i=0;i<arr.length;i++) {
 			System.out.print(arr[i]+" ");
 		}

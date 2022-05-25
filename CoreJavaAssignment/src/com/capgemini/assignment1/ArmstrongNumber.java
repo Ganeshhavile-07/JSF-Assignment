@@ -1,11 +1,10 @@
 package com.capgemini.assignment1;
 
 //153=1^3+5^3+3^3=153 ->It is called Armstrong number
-
+//Wright a program to find given number is Armstrong number or not
 public class ArmstrongNumber {
-
+   
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
         int n=153;
         int temp=n;
         int r, sum=0;

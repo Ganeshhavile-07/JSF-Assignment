@@ -1,10 +1,12 @@
 package com.capgemini.assignment1;
 
 import java.util.Scanner;
-
+//Find out simple and compound interest
 public class SimpleandCompoundInterest {
-
+    //Main Method
+	//execution start from main method
 	public static void main(String[] args) {
+		//Taking input from users
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the principle");
 		double n1=sc.nextDouble();
